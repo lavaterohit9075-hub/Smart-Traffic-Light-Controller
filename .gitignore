@@ -1,0 +1,27 @@
+# ---- Keil uVision project/build artifacts ----
+*.uvguix.*
+*.uvopt
+Objects/
+Listings/
+*.hex
+*.omf
+*.lnp
+*.__i
+*.crf
+*.plg
+*.d
+*.sbr
+*.scvd
+JLinkLog.txt
+EepromMap.txt
+
+# ---- Proteus backups/locks ----
+*.pdsprj.bak
+*.pdsprj.lck
+*.DSN.bak
+
+# ---- OS / editor junk ----
+.DS_Store
+Thumbs.db
+*.swp
+.vscode/
